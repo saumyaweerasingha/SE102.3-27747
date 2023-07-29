@@ -1,0 +1,60 @@
+<html>
+<head>
+
+<title> HTML LIST</title>
+</head>
+<body>
+<ul>
+ <li> car</li>
+ <li> van</li>
+ <li> bus</li>
+</ul>
+<ol type="i">
+<li> Apple</li>
+<li> orange</li>
+<li> grapes</li>
+<li> banana</li>
+ </ol>
+
+<ol start="1">
+<li> Cricket </li>
+<li> Foodball </li>
+<li> Rugby    </li>
+<li> Athletics </li>
+</ol>
+<ol> 
+<li>Apple</li>
+             <ul> <li> A fruit</li> </ul>
+<li>Cabbage</li>
+             <ul> <li> A vegitable</li> </ul>
+</ol>
+
+<ol  type="I" start="12">
+<li>Twelve</li>
+<li>Thirteen</li>
+<li> Fourteen</li>
+<li>Fifteen</li>
+</ol>
+<ol type="A" start="3" >
+<li> tea</li>
+<li>milk</li>
+<li>coffee</li>
+
+
+</ol>
+<ol reversed start="5">
+<li>Five</li>
+<li>four</li>
+<li>three</li>
+ 
+</ol>
+
+
+
+
+</body>
+
+
+
+
+</html>
