@@ -1,0 +1,26 @@
+<html>
+<head>
+<title> WEB FORM</title>
+</head>
+<body>
+<h1> Registration Form</h1>
+<form>
+ <p>First Name <input></p> 
+ <p>Last Name<input></p>
+ <p>Mobile Number<input></p>
+ <p>Gender   Male <input type="radio" name="gender" >
+              Female <input type="radio" name="gender">
+ <p> Email <input></p>
+ <p>Favourite Music Pop <input type="radio"  name="mus">
+                    Rock <input type= "radio" name="mus">
+                    Other <input type= "radio" name="mus">
+<p>Additional Details <input></p>
+<p> <input type="checkbox">I agree to the terms and conditions</p>
+<p> <input type="submit" >
+    <input type="submit" value= "Reset">
+</form>
+
+</body>
+
+
+</html>
